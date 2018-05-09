@@ -1,0 +1,2 @@
+# smallGz.github.io
+blog
